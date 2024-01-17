@@ -1,0 +1,10 @@
+---
+name: Nameless Memer # No longer than 28 characters
+institution: DPS RUBY PARK CALCUTTA 🚩 # no longer than 58 characters
+quote: Everything is impossible, until somebody does it # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
+github_user: Most-Racist-and-Xenophobic-guy
+class: 11K
+roll_no: 02
+link: https://github.com/Most-Racist-and-Xenophobic-guy/Hand-Cricket-/blob/main/Customised_limited_overs_cricket.py
+---
+
