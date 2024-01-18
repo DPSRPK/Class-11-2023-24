@@ -1,9 +1,9 @@
 ---
 name: Aheli Roy 
 institution: DPS
-quote: 
+quote: I exist as I am
 github_user: Aheliroy
 class: 11-K
 roll_no: 6
-link: 
+link: https://github.com/Aheliroy/audio.git
 ---
